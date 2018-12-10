@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/meal/model/Meal.java=UTF-8
+encoding//src/meal/model/MealMenu.java=UTF-8
+encoding//src/meal/model/MeatMenu.java=UTF-8
+encoding//src/meal/model/SoupAndPorridgeMenu.java=UTF-8
+encoding//src/meal/model/StapleFoodMenu.java=UTF-8
+encoding//src/meal/model/VegetarianMenu.java=UTF-8
+encoding//src/ordermeal/order.java=UTF-8
+encoding//src/ordermeal/orderDish.java=UTF-8
